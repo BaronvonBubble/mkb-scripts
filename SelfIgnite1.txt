@@ -1,0 +1,10 @@
+LOOK(+0,90,1t);
+SLOT(1);
+KEY(drop);
+WAIT(1t);
+ECHO(/give mamaweegee9000 fire);
+ECHO(/gamemode survival);
+WAIT(1t);
+KEY(use);
+WAIT(5t);
+KEY(attack);
